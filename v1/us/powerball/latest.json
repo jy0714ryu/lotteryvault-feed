@@ -1,1 +1,1 @@
-{"schema_version":2,"game":"us.powerball","draw_no":20261028,"draw_date":"2026-10-28","main":[11,13,16,47,60],"bonus":13,"multiplier":2,"double_play":{"main":[15,22,23,48,65],"bonus":9},"fetched_at":"2026-10-31T08:31:21-04:00","source":"data.ny.gov d6yy-54nr"}
+{"schema_version":2,"game":"us.powerball","draw_no":20261031,"draw_date":"2026-10-31","main":[2,4,18,50,56],"bonus":20,"multiplier":3,"double_play":{"main":[16,52,55,58,67],"bonus":24},"fetched_at":"2026-11-01T03:45:03-05:00","source":"data.ny.gov d6yy-54nr"}
